@@ -1,2 +1,2 @@
 # practice6
-clw hw
+https://kazifarabi73.github.io/practice6/
